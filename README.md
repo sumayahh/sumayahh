@@ -1,8 +1,7 @@
 ## Hi there 👋
+I'm Sumayah, an aspiring Software Engineer. 
 
 ### About me
-
-Hi, I'm Sumayah, an aspiring Software Engineer. 
 - 🔭 I’m currently working on developing my project portfolio, and coding things to help consolidate my learning.
 - 🌱 I’m currently learning C++!
 
